@@ -1,1 +1,5 @@
 # Solus_OS
+# Installation 
+Solus is a modern Linux operating system designed for home computing. To install it, first download the ISO file from the official Solus website and create a bootable USB using a tool like Rufus or Etcher. Boot your computer from the USB and launch the Solus installer. Follow the guided steps to choose your language, keyboard layout, partition the disk, and set up your user account. Once the installation is complete, restart your system and enjoy your new Solus OS.
+# system call 
+Solus OS uses the Linux kernel, so it supports the standard set of Linux system calls. These system calls act as the interface between user applications and the kernel, handling tasks like file operations, process control, and memory management. Common system calls include read(), write(), fork(), and exec(). Solus optimizes performance for the desktop, ensuring efficient use of these calls in daily operations. Like other Linux distributions, Solus relies on the POSIX-compliant system call interface for compatibility and stability.
